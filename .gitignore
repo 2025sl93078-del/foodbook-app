@@ -1,0 +1,18 @@
+# Environment files — never commit these
+.env
+*.env
+
+# Java / Maven
+server/target/
+*.class
+*.jar
+*.war
+
+# Node / frontend
+client/node_modules/
+client/dist/
+
+# IDE
+.idea/
+*.iml
+.vscode/
