@@ -2,6 +2,7 @@
 
 A full-stack food booking and restaurant ordering application. Browse restaurants, view menus, book tables, and place orders — all from one place.
 
+
 ## Tech Stack
 
 | Layer    | Technology                                      |
