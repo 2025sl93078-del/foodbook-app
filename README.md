@@ -95,7 +95,7 @@ The Vite dev server proxies all `/api` requests to `http://localhost:8080`, so n
 - Dashboard with restaurant overview
 - Full CRUD for restaurants (add, edit, delete)
 - Manage order statuses (Pending → Confirmed → Preparing → Ready → Delivered)
-
+- Admin will control this page.
 ---
 
 ## Project Structure
