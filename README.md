@@ -34,10 +34,9 @@ JWT_SECRET=<base64-encoded-secret>
 
 # Set to true for a fresh database (seeds demo restaurants and users).
 # Set to false once the database is already populated.
-SEED_ENABLED=true
+# Since the database is managed via Render, SEED_ENABLED can be left as false
+SEED_ENABLED=false
 ```
-
-> `server/.env` is excluded from Git. Never commit real credentials.
 
 ---
 
